@@ -1,6 +1,6 @@
-type IType = (element: Element | null) => Element | Window;
+type MyType = (element: Element | null) => Element | Window;
 
-const getElementScrollableParent: IType = (element: Element | null) => {
+const getElementScrollableParent: MyType = (element: Element | null) => {
   if (
     !element ||
     element.nodeName === "#document" ||
