@@ -3,7 +3,7 @@
 
 ### Check the deployed version?
 
-Go to this [**DEMO**](https://ahmeeedmostafa.github.io/virtualized-tickets-list/)
+Go to this [**DEMO**](https://ahmeeedmostafa.github.io/virtualized-tickets-list/) -- applied on mockup data of 50,000 records --.
 
 ### How to preview in build env.?
 
