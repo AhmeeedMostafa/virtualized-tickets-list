@@ -1,0 +1,9 @@
+.virtualListRoot {
+  overflow: hidden;
+}
+
+.virtualList {
+  overflow: hidden;
+  height: 100%;
+  will-change: transform;
+}
